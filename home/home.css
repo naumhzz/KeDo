@@ -1,0 +1,99 @@
+.navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .nav-item {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  
+  .navbar-brand {
+    margin-right: auto;
+  }
+
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+  }
+
+.text-container {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  text-align: left;
+  color: #D37E1A;
+  font-size: 60px;
+  font-family: 'Poppins Semibold',sans-serif ;
+  font-weight: 600;
+
+}
+.text-top, .text-middle, .text-bottom {
+  margin-bottom: 6px;
+}
+
+ 
+.btn {
+    border-radius: 0;
+    border-color: #FF6D3F;
+    background-color: #FF6D3F;
+    padding: 25px 55px;
+    font-family: 'Poppins Semibold',sans-serif ;
+    font-weight: 600;
+    position: relative;
+    align-items: center;
+  }
+  
+.btn-primary:hover{
+    background-color: #C79B91;
+    border-color: #C79B91;
+}
+
+.keramik-text{
+    font-family: 'Poppins Bold',sans-serif ;
+    font-weight: 800;
+}
+
+.lorem-text{
+    font-family: 'Poppins Regular',sans-serif ;
+    font-weight: 300;
+}
+
+.image-text{
+    font-family: 'Poppins Semibold',sans-serif ;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.produk-text{
+  font-family: 'Poppins Semibold',sans-serif ;
+  font-weight: 600;
+  color: #5E5E5E;
+}
+
+
+.card-body {
+  position: relative;
+}
+.card-img-top{
+  border-radius: 0;
+}
+
+.card{
+  border: #FFfFfF;
+  border-radius: 0;
+}
+.btn-card {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding: 5px 30px;
+  border-radius: 4px;
+  background-color: #FF6F6F;
+  border-color: #FF6F6F;
+}
+
+
+.footer{
+  border-top: 1px solid #dcdcdc;
+}

@@ -1,0 +1,36 @@
+.navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .nav-item {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  
+  .navbar-brand {
+    margin-right: auto;
+  }
+
+
+.footer{
+  border-top: 1px solid #dcdcdc;
+}
+
+.form-container{
+    background-color: #F9F1E7;
+    border-radius: 10px;
+    
+}
+
+.btn-primary {
+    padding: 10px 40px;
+    border-radius: 4px;
+    background-color: #FF6F6F;
+    border-color: #FF6F6F;
+  }
+
+  .btn-primary:hover{
+    background-color: #C79B91;
+    border-color: #C79B91;
+}
